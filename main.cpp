@@ -1,9 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-#include <iomanip>
 #include <mpreal.h>
-#include <mpfr.h>
+
 
 
 #define TOP 4
